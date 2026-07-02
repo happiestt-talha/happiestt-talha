@@ -13,3 +13,10 @@
 <img width="49%" src="https://talha-github-stats-extended.vercel.app/api/top-langs/?username=happiestt-talha&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
 </div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output/github-snake.svg" />
+</picture>
+</div>
