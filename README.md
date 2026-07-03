@@ -20,3 +20,26 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output/github-snake.svg" />
 </picture>
 </div>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mt4lha/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/happiest_talha/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/happies.talha/">
+  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
+</a>
+&nbsp;&nbsp;
+<a href="https://mtalha.me">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=0A101F" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mtalhamanzoor32@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+
+</div>
