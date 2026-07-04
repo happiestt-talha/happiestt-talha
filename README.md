@@ -4,6 +4,9 @@
   <img alt="M Talha Manzoor" src="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/master/light.svg">
 </picture>
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=22D3EE&background=0A101F00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%2B+Next.js+%2B+Django+%2B+FastAPI;Building+Hey+Quiz%2C+PenTutor%2C+CRIC-V;Open+to+Remote+%26+Lahore-based+Roles" alt="Typing SVG" />
+</div>
+<div align="center">
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=happiestt-talha&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 
