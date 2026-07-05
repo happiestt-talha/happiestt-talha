@@ -22,7 +22,7 @@ jobs:
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: output-3d
           build_dir: profile-3d-contrib
           commit_message: "Update 3D contribution graph [skip ci]"
         env:
