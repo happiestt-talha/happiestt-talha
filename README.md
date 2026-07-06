@@ -12,8 +12,13 @@
 
 <br/>
 
-<img width="49%" src="https://talha-github-stats-extended.vercel.app/api?username=happiestt-talha&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://talha-github-stats-extended.vercel.app/api/top-langs/?username=happiestt-talha&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output/profile-green-animate.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output/profile-green-animate.svg" />
+</picture>
+</div>
 
 </div>
 <div align="center">
