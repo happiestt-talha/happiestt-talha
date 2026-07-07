@@ -14,12 +14,11 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output/profile-green-animate.svg" />
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output/profile-green-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output-3d/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output-3d/profile-green-animate.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/happiestt-talha/happiestt-talha/output-3d/profile-green-animate.svg" />
 </picture>
 </div>
-
 </div>
 <div align="center">
 <picture>
